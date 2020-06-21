@@ -36,3 +36,6 @@ body{
 .navbar-dark{
     background-color:#512DAB;
 }
+.navbar-brand{
+    color:white;
+}
